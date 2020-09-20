@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "z8epvolJxJXp6deTz/fq65zjiDmzCGcBbAkhLbpoxEKAsu91zeO4H471A8uVB4qRrZmMT09l5XDUgRIVTrCyoA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rafae\\source\\repos\\infnet\\assessement\\Editora\\Editora.Domain\\Editora.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rafae\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

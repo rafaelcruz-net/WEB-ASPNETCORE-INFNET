@@ -1,0 +1,12 @@
+C:\Users\rafae\source\repos\infnet\assessement\Editora\Editora.Repository\bin\Debug\netcoreapp3.1\Editora.Repository.deps.json
+C:\Users\rafae\source\repos\infnet\assessement\Editora\Editora.Repository\bin\Debug\netcoreapp3.1\Editora.Repository.dll
+C:\Users\rafae\source\repos\infnet\assessement\Editora\Editora.Repository\obj\Debug\netcoreapp3.1\Editora.Repository.csprojAssemblyReference.cache
+C:\Users\rafae\source\repos\infnet\assessement\Editora\Editora.Repository\obj\Debug\netcoreapp3.1\Editora.Repository.AssemblyInfoInputs.cache
+C:\Users\rafae\source\repos\infnet\assessement\Editora\Editora.Repository\obj\Debug\netcoreapp3.1\Editora.Repository.AssemblyInfo.cs
+C:\Users\rafae\source\repos\infnet\assessement\Editora\Editora.Repository\bin\Debug\netcoreapp3.1\Editora.Repository.pdb
+C:\Users\rafae\source\repos\infnet\assessement\Editora\Editora.Repository\bin\Debug\netcoreapp3.1\Editora.Domain.dll
+C:\Users\rafae\source\repos\infnet\assessement\Editora\Editora.Repository\bin\Debug\netcoreapp3.1\Editora.Domain.pdb
+C:\Users\rafae\source\repos\infnet\assessement\Editora\Editora.Repository\obj\Debug\netcoreapp3.1\Editora.Repository.csproj.CoreCompileInputs.cache
+C:\Users\rafae\source\repos\infnet\assessement\Editora\Editora.Repository\obj\Debug\netcoreapp3.1\Editora.Repository.csproj.CopyComplete
+C:\Users\rafae\source\repos\infnet\assessement\Editora\Editora.Repository\obj\Debug\netcoreapp3.1\Editora.Repository.dll
+C:\Users\rafae\source\repos\infnet\assessement\Editora\Editora.Repository\obj\Debug\netcoreapp3.1\Editora.Repository.pdb
